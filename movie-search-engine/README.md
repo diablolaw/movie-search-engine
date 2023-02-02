@@ -1,3 +1,11 @@
+#Note from Elliott:
+Make sure you pull all the changes I made to the backend - https://github.com/fabian2912/MovieRankedProjectApplication
+To run the frontend, please download and install node.js first if you haven't.
+Run backend first, make sure backend server is running on your local host 8080.
+Navigate to the sub folder movie-search-engine (they have the same name) and open terminal.
+run `npm start`
+react frontend will be hosted on your local host 3000 and talks to your local server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
