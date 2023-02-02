@@ -1,4 +1,4 @@
-#Note from Elliott:
+# Note from Elliott:
 Make sure you pull all the changes I made to the backend - https://github.com/fabian2912/MovieRankedProjectApplication
 To run the frontend, please download and install node.js first if you haven't.
 Run backend first, make sure backend server is running on your local host 8080.
