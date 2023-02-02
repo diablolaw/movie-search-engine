@@ -2,7 +2,8 @@ import React from "react";
 import { useState } from "react";
 import "./SearchBar.css";
 import SearchIcon from "@mui/icons-material/Search";
-import Button from "@mui/material/Button";
+// import Button from "@mui/material/Button";
+import { Button } from "react-bootstrap";
 import { Link, useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faVideoSlash } from "@fortawesome/free-solid-svg-icons";
@@ -38,7 +39,8 @@ const SearchBar = () => {
       <div className="search__buttons">
         <Button
           type="submit"
-          variant="outlined"
+          variant="info"
+          className="me-2"
           onClick={() => movieInfo(input)}
         >
           Search a Movie
