@@ -3,6 +3,7 @@
 ### To run the frontend, please download and install node.js first if you haven't.
 ### Run backend first, make sure backend server is running on your local host 8080.
 ### Navigate to the sub folder movie-search-engine (they have the same name) and open terminal.
+### run `npm i`
 ### run `npm start`
 ### react frontend will be hosted on your local host 3000 and talks to your local server.
 
